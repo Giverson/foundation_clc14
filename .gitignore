@@ -1,0 +1,16 @@
+    terraform.tfstate
+# Local .terraform directory
+    .terraform/
+# Local .terraform.lock.hcl file
+    .terraform.lock.hcl
+# Local override files
+    override.tf
+    override.tf.json
+# Local environment variables file
+    .env
+# Local provider binaries
+    .terraform/providers/
+# Local provider cache
+    .terraform/plugin-cache/
+# Local plan files
+    *.tfplan                
